@@ -1,0 +1,53 @@
+{
+  "songs": [
+    {
+      "name": "Ngày ấy (Yesterday)",
+      "author": "Em Ellata",
+      "url": "/Media_Player/assets/song1.mp3",
+      "image": "/Media_Player/assets/song1.jpg",
+      "id": 1
+    },
+    {
+      "name": "Tâm",
+      "author": "Mer",
+      "url": "/Media_Player/assets/song2.mp3",
+      "image": "/Media_Player/assets/song2.jpg",
+      "id": 2
+    },
+    {
+      "name": "Thunder Nightcore",
+      "author": "Gabry Ponte, LUM!X, Prezioso",
+      "url": "/Media_Player/assets/song3.mp3",
+      "image": "/Media_Player/assets/song3.jpg",
+      "id": 3
+    },
+    {
+      "name": "Nevada23",
+      "author": "Vicetone23",
+      "url": "#",
+      "image": "#",
+      "id": 4
+    },
+    {
+      "name": "Nevada234",
+      "author": "Vicetone234",
+      "url": "#",
+      "image": "#",
+      "id": 5
+    },
+    {
+      "name": "Nevada2345",
+      "author": "Vicetone2345",
+      "url": "#",
+      "image": "#",
+      "id": 6
+    },
+    {
+      "name": "Nevada23456",
+      "author": "Vicetone2345",
+      "url": "#",
+      "image": "#",
+      "id": 7
+    }
+  ]
+}
